@@ -1,0 +1,23 @@
+{
+  "name": "dataset-points",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "firebase": "^9.9.3",
+    "vue": "^3.2.37",
+    "vue-loader": "^17.0.0",
+    "vue-template-compiler": "^2.7.10",
+    "webpack": "^5.74.0"
+  },
+  "devDependencies": {
+    "webpack-cli": "^4.10.0"
+  },
+  "scripts": {
+    "build": "webpack build",
+    "dev": "webpack watch",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Yogesh Jagdale",
+  "license": "ISC"
+}
